@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyProject</string>
+
+    <string name="userName"> </string>
+    <string name="type"> </string>
+    <string name="quantity"> </string>
+    <string name="address"> </string>
+    <string name="phone"> </string>
+
+
+</resources>
